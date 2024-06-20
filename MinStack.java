@@ -1,6 +1,5 @@
 import java.util.LinkedList;
 import java.util.Stack;
-
 public class MinStack {
     Stack<Integer> st;
     Stack<Integer> minSt;
